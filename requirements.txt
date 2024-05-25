@@ -1,0 +1,81 @@
+asttokens==2.4.1
+astunparse==1.6.3
+Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
+cachetools==5.3.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+comm==0.2.2
+debugpy==1.8.1
+decorator==5.1.1
+exceptiongroup==1.2.1
+executing==2.0.1
+flatbuffers==23.5.26
+gast==0.4.0
+google-auth==2.28.1
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.62.0
+h5py==3.10.0
+idna==3.6
+importlib-metadata==7.0.1
+ipykernel==6.29.4
+ipython==8.18.1
+jedi==0.19.1
+joblib @ file:///C:/b/abs_4b02c83r3b/croot/joblib_1713976789617/work
+jupyter_client==8.6.2
+jupyter_core==5.7.2
+keras==2.13.1
+libclang==16.0.6
+Markdown==3.5.2
+MarkupSafe==2.1.5
+matplotlib-inline==0.1.7
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+nest-asyncio==1.6.0
+numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
+numpy==1.24.3
+oauthlib==3.2.2
+opt-einsum==3.3.0
+packaging==23.2
+pandas @ file:///C:/b/abs_3awk0iw2ab/croot/pandas_1709590545218/work/dist/pandas-2.2.1-cp39-cp39-win_amd64.whl#sha256=f678af1dc65824be67d5789cb9f76ffef40030e586438eef2c8664c33bbd4c6c
+parso==0.8.4
+platformdirs==4.2.2
+prompt-toolkit==3.0.43
+psutil==5.9.8
+pure-eval==0.2.2
+py4j @ file:///C:/b/abs_41aa5j9cc8/croot/py4j_1690918294845/work
+pyarrow @ file:///C:/b/abs_93i_y2dub4/croot/pyarrow_1707330894046/work/python
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+Pygments==2.18.0
+pyspark @ file:///C:/b/abs_272m978w69/croot/pyspark_1690925134865/work
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
+pywin32==306
+pyzmq==26.0.3
+requests==2.31.0
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-learn @ file:///C:/b/abs_d6_krvz8aa/croot/scikit-learn_1714164798159/work
+scipy @ file:///C:/b/abs_2ea4kcjtpg/croot/scipy_1714080455387/work/dist/scipy-1.13.0-cp39-cp39-win_amd64.whl#sha256=900f80f3cad808d3dca1a1d4c888772d33a30ed628e4926cd58e215cfacf3e4d
+six==1.16.0
+stack-data==0.6.3
+tensorboard==2.13.0
+tensorboard-data-server==0.7.2
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.4.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado==6.4
+traitlets==5.14.3
+typing_extensions==4.5.0
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==2.2.1
+wcwidth==0.2.13
+Werkzeug==3.0.1
+wrapt==1.16.0
+zipp==3.17.0
